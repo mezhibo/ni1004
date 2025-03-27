@@ -9,9 +9,6 @@
 Вот завел двух абонентов
 
 
-[SIP.CONF](https://github.com/mezhibo/ni1004/blob/914767934acc924e1a8999ecd1b86be14e2e7c3a/IMG/sip.conf)
-
-
 ![Image alt](https://github.com/mezhibo/ni1004/blob/914767934acc924e1a8999ecd1b86be14e2e7c3a/IMG/1.jpg)
 
 Абоненты готовы, но диалпалана еще нет, звонить не получится, отсюда поле с ip пустое
