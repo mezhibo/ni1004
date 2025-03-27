@@ -29,4 +29,4 @@
 Теперь глянем sip show peers и увидим что после звонков ip адреса абонентов определились
 
 
-![Image alt](https://github.com/mezhibo/ni1004/blob/914767934acc924e1a8999ecd1b86be14e2e7c3a/IMG/3.jpg)
+![Image alt](https://github.com/mezhibo/ni1004/blob/5971c05cca4874b51a2a9da574182de95876026b/IMG/4.jpg)
